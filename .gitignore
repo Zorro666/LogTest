@@ -1,0 +1,5 @@
+*.swp
+*.exe
+*.d
+*.o
+logtest
